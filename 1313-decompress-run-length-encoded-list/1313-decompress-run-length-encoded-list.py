@@ -10,3 +10,4 @@ class Solution:
             for j in range(0,nums[i]):
                 t.append(nums[i+1])
         return t
+            
